@@ -2,5 +2,11 @@
   "name": "intersection-observer",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.22.10"
+  },
+  "dependencies": {
+    "intersection-observer": "^0.7.0"
+  }
 }
